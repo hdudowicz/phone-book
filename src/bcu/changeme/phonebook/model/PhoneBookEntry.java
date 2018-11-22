@@ -1,4 +1,4 @@
-package bcu.changeme.addressbook.model;
+package bcu.changeme.phonebook.model;
 
 /*
  * Models a single entry in the phone book, with a name and a phone number.

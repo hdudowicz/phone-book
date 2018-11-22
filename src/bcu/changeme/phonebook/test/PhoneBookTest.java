@@ -1,6 +1,6 @@
-package bcu.changeme.addressbook.test;
+package bcu.changeme.phonebook.test;
 
-import bcu.changeme.addressbook.model.*;
+import bcu.changeme.phonebook.model.*;
 
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;

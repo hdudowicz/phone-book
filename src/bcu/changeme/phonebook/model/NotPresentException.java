@@ -1,4 +1,4 @@
-package bcu.changeme.addressbook.model;
+package bcu.changeme.phonebook.model;
 
 /*
  * This exception is thrown when trying to get, update or remove an entry from

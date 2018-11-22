@@ -1,4 +1,4 @@
-package bcu.changeme.addressbook.model;
+package bcu.changeme.phonebook.model;
 
 import java.util.*;
 

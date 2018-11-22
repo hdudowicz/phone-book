@@ -1,6 +1,6 @@
-package bcu.changeme.addressbook.main;
+package bcu.changeme.phonebook.main;
 
-import bcu.changeme.addressbook.model.*;
+import bcu.changeme.phonebook.model.*;
 
 import java.io.BufferedReader;
 import java.io.IOException;

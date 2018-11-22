@@ -1,4 +1,4 @@
-package bcu.changeme.addressbook.main;
+package bcu.changeme.phonebook.main;
 
 /*
  * This exception is thrown when failing to parse a command.
